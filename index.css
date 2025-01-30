@@ -104,6 +104,10 @@ header a:hover {
     transform: translate(1px, 1px);
 }
 
+.home-container .find-van-btn {
+    width: auto;
+    padding: 0 20px;
+}
 
 /*** ABOUT PAGE ***/
 .about-hero-image {
