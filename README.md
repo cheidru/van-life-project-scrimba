@@ -17,3 +17,9 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+Personal settings
+
+- [Netlify link](https://app.netlify.com/teams/cheidru/sites)
+Login with GitHub
+- [Netlify Project Link](https://app.netlify.com/projects/van-life-project-scrimba/overview)
